@@ -4,7 +4,7 @@ on:
   workflow_dispatch:
     inputs:
       number:
-        default: "2"
+        default: "5"
       max_workers:
         default: "1"
       ingest_to_oneapi:
